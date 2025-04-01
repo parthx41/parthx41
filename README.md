@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @parthx41
+- 👀 I’m interested in information technology 
+- 🌱 I’m currently learning full stack 
+- 💞️ I’m looking to collaborate on entry level company
+
+<!---
+parthx41/parthx41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
